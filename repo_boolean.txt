@@ -1,0 +1,4 @@
+REPO: laravel-primi-passi
+GOAL: come detto in classe, l'obbiettivo e' quello di produrre un "hello world" in nuovo progetto laravel; in particolare produrre nuova rotta a piacere, ritornare nuova view,
+ includere il sass con quel minimo di direttive per verificare che tutto funzioniNOTA: 
+cercare di prestare particolare attenzione alla linea di comando, tenendo in mente che la sequenza di comandi verra' ripetuta molte volte prima della fine del corso
